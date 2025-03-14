@@ -1,5 +1,5 @@
 deployment:
   replicas: 3
-  imageversion: latest #stable-perl
+  imageversion: stable-perl
 service:
   nodeport: 32000
